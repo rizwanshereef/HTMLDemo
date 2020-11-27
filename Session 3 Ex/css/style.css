@@ -1,0 +1,17 @@
+.bg-dark
+{
+    background-color: #ffde22 !important; 
+    border-bottom: 2px solid coral;
+}
+
+.navbar-brand img
+{
+    height: 10vh;
+    width: 10vw;
+}
+
+.footer-sec
+{
+    background-color: olivedrab;
+    text-align: center;
+}
